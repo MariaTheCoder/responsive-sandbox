@@ -143,6 +143,10 @@ body {
     margin-bottom: 0.75em;
 }
 
+.featuredPackagesTitle {
+    display: none;
+}
+
 .container {
     height: fit-content;
     border-radius: var(--default-border-radius);
